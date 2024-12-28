@@ -11,7 +11,7 @@ export default defineNuxtConfig({
       title: 'Shortcuts Directory',
       meta: [
         { name: 'description', content: "Curated collections of the best links about Apple's Shortcuts app." },
-        { property: "og:image", content: 'https://themaypole.siefertfamily.com/sharing.png' },
+        { property: "og:image", content: 'https://shortcuts.directory/sharingtile.jpg' },
       ],
     }
   },
