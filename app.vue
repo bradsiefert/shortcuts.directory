@@ -15,7 +15,7 @@
     <div class="hero-body">
       <div class="container super-skinny has-text-centered">
         <h1 class="title is-size-1 is-size-3-mobile has-text-white mb-3">
-          Curated collections of the best links about Shortcuts
+          Curated collections of the best links about  Shortcuts
         </h1>
         <div class="subtitle has-text-info is-size-4 is-size-5-mobile mb-5">
           Apple’s Shortcuts app (aka Siri Shortcuts) is an exciting platform for automating tasks. This directory is my attempt to collect all the best Shortcuts resources.
@@ -25,7 +25,7 @@
   </section>
 
   <main class="content">
-    <div class="container super-skinny">
+    <div class="container skinny">
       <div class="column">
         <div>
           <hr class="divider">
@@ -37,10 +37,11 @@
           <p class="is-size-5">
             A previous version of this site accepted submissions for great links about Shortcuts. Unfortunately, the framework I use to build the site broke and rebuilding it is not something I currently have time for. I'm updating this page to link to my Airtable database that is admittedly out of date, but still has great information. I hope to eventually find time to rebuild it someday. To those starting their Shortcuts journey, best of luck. ✌️
           </p>
+          <hr class="divider">
         </div>
       </div>
     </div>
-    <div class="container-fluid my-5 px-3">
+    <div class="container-fluid px-3">
       <iframe class="airtable-embed" title="An embed of an Airtable database of links about Shortcuts" src="https://airtable.com/embed/appnNmiH4U5ICrJJe/shrIb2h07RQo1JcI2?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="768" style="background: transparent; border: 1px solid #ccc;"></iframe>
     </div>
 
@@ -54,7 +55,7 @@
   <footer>
     <p class="has-text-centered">
       <small>
-        <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a> | Updated: 2021-05-29 | Made by
+        <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a> | Updated: 2024-12-28 | Made by
         <a target="_blank" href="https://bradsiefert.com" title="Brad Siefert's Design Portfolio" rel="noreferrer">Brad Siefert</a>
       </small>
     </p>
