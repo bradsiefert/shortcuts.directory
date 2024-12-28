@@ -1,21 +1,19 @@
 {
-  "name": "shortcuts-directory",
+  "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
-    "build": "gridsome build",
-    "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@gridsome/source-airtable": "^0.2.0",
-    "bulma": "^0.9.2",
-    "gridsome": "^0.7.23",
-    "sass": "^1.35.1"
-  },
-  "devDependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.35",
-    "@fortawesome/free-brands-svg-icons": "^5.15.3",
-    "@fortawesome/vue-fontawesome": "^0.1.10",
-    "sass-loader": "^10.2.0"
+    "bulma": "^1.0.3",
+    "nuxt": "^3.15.0",
+    "sass": "^1.83.0",
+    "vue": "latest",
+    "vue-router": "latest"
   }
 }
