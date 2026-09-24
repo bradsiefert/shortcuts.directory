@@ -13,5 +13,6 @@
     "bulma": "^1.0.3",
     "nuxt": "^4.5.1",
     "sass": "^1.83.0"
-  }
+  },
+  "packageManager": "pnpm@11.24.0"
 }

@@ -1,11 +1,11 @@
 [build]
-  command = "npm run generate"
+  command = "pnpm run generate"
   publish = "dist"
 
 [build.environment]
   NODE_VERSION = "22"
 
 [dev]
-  command = "npm run dev"
+  command = "pnpm run dev"
   targetPort = 3000
   framework = "nuxt"
